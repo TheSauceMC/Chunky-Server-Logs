@@ -1,0 +1,46 @@
+[12:49:31] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.11
+[12:49:31] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- java 19
+	- minecraft 1.20.4
+[12:49:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/sid_1507694/minecraft_fabric_1204/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[12:49:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:49:42] [main/INFO]: Loaded 7 recipes
+[12:49:42] [main/INFO]: Loaded 1271 advancements
+[12:49:43] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:49:43] [Server thread/INFO]: Loading properties
+[12:49:43] [Server thread/INFO]: Default game type: SURVIVAL
+[12:49:43] [Server thread/INFO]: Generating keypair
+[12:49:43] [Server thread/INFO]: Starting Minecraft server on 176.57.135.195:26065
+[12:49:44] [Server thread/INFO]: Using epoll channel type
+[12:49:44] [Server thread/INFO]: Preparing level "Terraworld"
+[12:49:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:49:48] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[12:49:48] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[12:49:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:49:49] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[12:49:50] [Worker-Main-18/INFO]: Preparing spawn area: 33%
+[12:49:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[12:49:50] [Server thread/INFO]: Time elapsed: 5679 ms
+[12:49:50] [Server thread/INFO]: Done (6.566s)! For help, type "help"
+[12:49:50] [Server thread/INFO]: Starting GS4 status listener
+[12:49:50] [Server thread/INFO]: Thread Query Listener started
+[12:49:50] [Query Listener #1/INFO]: Query running on 176.57.135.195:26065
+[12:49:52] [User Authenticator #1/INFO]: UUID of player BigBlakSakWak is e3dd6935-6b5e-4383-90c6-e1c4fd306f6d
+[12:49:52] [Server thread/INFO]: BigBlakSakWak[/124.168.225.89:65432] logged in with entity id 414 at (95.18431738285268, 81.0, -95.06999308668742)
+[12:49:53] [Server thread/INFO]: BigBlakSakWak joined the game
+[12:55:53] [Server thread/INFO]: BigBlakSakWak lost connection: Timed out
+[12:55:53] [Server thread/INFO]: BigBlakSakWak left the game
+[13:00:23] [User Authenticator #2/INFO]: UUID of player BigBlakSakWak is e3dd6935-6b5e-4383-90c6-e1c4fd306f6d
+[13:00:23] [Server thread/INFO]: BigBlakSakWak[/124.168.225.89:51716] logged in with entity id 1077 at (145.81430132852535, 78.0, -115.5149633931377)
+[13:00:23] [Server thread/INFO]: BigBlakSakWak joined the game
+[13:01:04] [Server thread/INFO]: BigBlakSakWak lost connection: Disconnected
+[13:01:04] [Server thread/INFO]: BigBlakSakWak left the game
+
